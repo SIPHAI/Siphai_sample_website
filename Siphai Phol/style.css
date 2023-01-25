@@ -3,12 +3,24 @@ body {
     background-size: cover;
 }
 
+h1 {
+    text-align: center;
+    color: rgb(4, 92, 63);
+}
+
+h1:hover {
+    color: blue;
+    color: aquamarine;
+    color: blueviolet;
+}
+
 div {
 
-    font-size: 250%;
+    font-size: 200%;
     color: blue;
     text-decoration: solid;
     display: inline;
+    margin: 75px;
 }
 
 div:hover {
