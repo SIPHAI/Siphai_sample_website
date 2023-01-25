@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://miro.medium.com/max/1400/1*DA7nl6tRnXLa11VLXT2B2g.png");
+    background-size: cover;
+}
+
+div {
+
+    font-size: 250%;
+    color: blue;
+    text-decoration: solid;
+    display: inline;
+}
+
+.div {
+    display: inline;
+}
+
+div:hover {
+    color: aquamarine;
+    text-decoration: underline;
+
+}
