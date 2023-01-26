@@ -5,7 +5,7 @@ body {
 
 h1 {
     text-align: center;
-    color: rgb(4, 92, 63);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif(4, 92, 63);
 }
 
 h1:hover {
@@ -14,13 +14,12 @@ h1:hover {
     color: blueviolet;
 }
 
-section {
+div {
+    display: inline;
     font-size: 200%;
     color: blue;
     text-decoration: solid;
-    display: inline;
-    margin: 65px;
-    flex-direction: column;
+    margin: 55px;
 }
 
 div:hover {
