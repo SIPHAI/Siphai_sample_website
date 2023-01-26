@@ -20,7 +20,8 @@ div {
     color: blue;
     text-decoration: solid;
     display: inline;
-    margin: 75px;
+    margin: 65px;
+    flex-direction: column;
 }
 
 div:hover {
