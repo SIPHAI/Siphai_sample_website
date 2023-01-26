@@ -12,6 +12,11 @@ h1:hover {
     color: blue;
     color: aquamarine;
     color: blueviolet;
+
+}
+
+hr {
+    background-color: azure;
 }
 
 div {
@@ -20,11 +25,14 @@ div {
     color: blue;
     text-decoration: solid;
     margin: 55px;
+    /* border: 2px solid black;
+    border-radius: 10px;
+    background-color: brown; */
 
 }
 
 div:hover {
-    color: rgb(18, 20, 20);
+    color: rgb(9, 244, 13);
     text-shadow: 2mm;
     text-decoration: underline;
     background-color: rgb(161, 169, 162);
