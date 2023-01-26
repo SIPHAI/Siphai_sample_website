@@ -20,10 +20,14 @@ div {
     color: blue;
     text-decoration: solid;
     margin: 55px;
+
 }
 
 div:hover {
-    color: aquamarine;
+    color: rgb(18, 20, 20);
+    text-shadow: 2mm;
     text-decoration: underline;
+    background-color: rgb(161, 169, 162);
+
 
 }
