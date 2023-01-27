@@ -27,3 +27,15 @@ section {
     margin: 50%;
     padding-right: 10;
 }
+
+button {
+    color: white;
+    background-color: rgb(156, 156, 190);
+
+}
+
+button:hover {
+    color: white;
+    background-color: greenyellow;
+    text-align: center;
+}
