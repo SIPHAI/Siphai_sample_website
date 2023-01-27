@@ -3,6 +3,7 @@ body {
     background-image: url("https://img.freepik.com/free-vector/low-poly-white-background-design_1017-33204.jpg?w=2000");
     background-size: cover;
 
+
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -21,10 +22,8 @@ div {
     margin: 20%;
 }
 
-.pet {
+section {
     display: inline;
-    margin: 20%;
-    align-items: space-between;
-    border-radius: 2px solid black;
-
+    margin: 50%;
+    padding-right: 10;
 }
