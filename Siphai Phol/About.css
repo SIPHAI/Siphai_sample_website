@@ -17,6 +17,10 @@ h2:hover {
     text-decoration: underline;
 }
 
+.pricing-header {
+    text-align: start;
+}
+
 div {
     display: inline;
     margin: 20%;
@@ -29,13 +33,14 @@ section {
 }
 
 button {
+    font-size: 30px;
     color: white;
     background-color: rgb(156, 156, 190);
 
 }
 
 button:hover {
-    color: white;
     background-color: greenyellow;
-    text-align: center;
+    text-align: start;
+
 }
