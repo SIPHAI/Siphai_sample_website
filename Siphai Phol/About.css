@@ -8,6 +8,10 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+h1 {
+    color: rgb(0, 202, 10);
+}
+
 h2 {
     text-align: center;
 }
@@ -43,4 +47,8 @@ button:hover {
     background-color: greenyellow;
     text-align: start;
 
+}
+
+#cat {
+    display: inline-flex;
 }
