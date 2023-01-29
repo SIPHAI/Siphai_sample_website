@@ -50,6 +50,6 @@ button:hover {
 }
 
 .cat {
-    display: inline-flex;
-    /* border-radius: 0 solid black; */
+    /* display: inline-flex; */
+    border-radius: 1px solid black;
 }
