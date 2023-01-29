@@ -10,6 +10,7 @@ body {
 
 h1 {
     color: rgb(0, 202, 10);
+    border-radius: 1px solid black;
 }
 
 h2 {
