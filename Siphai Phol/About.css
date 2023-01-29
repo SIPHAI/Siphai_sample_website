@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-    text-align: center;
+    display: center;
 }
 
 h2:hover {
