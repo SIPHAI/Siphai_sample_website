@@ -38,6 +38,7 @@ section {
 }
 
 button {
+    display: start;
     font-size: 20px;
     color: rgb(0, 213, 246);
     background-color: rgb(156, 156, 190);
@@ -46,10 +47,9 @@ button {
 
 button:hover {
     background-color: rgb(0, 210, 63);
-    text-align: start;
-
 }
 
-#cat {
+.cat {
     display: inline-flex;
+    /* border-radius: 0 solid black; */
 }
