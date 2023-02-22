@@ -1,7 +1,13 @@
+
+body{
+    background-color: black;
+}
+
 .container{
+    margin-top: 20%;
     display: flex;
     justify-content: center;
-    background-color: rgb(5, 5, 5);
+    /* background-color: rgb(5, 5, 5); */
 
 }
 .box{
